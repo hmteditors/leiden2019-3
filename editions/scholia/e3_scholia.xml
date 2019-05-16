@@ -224,7 +224,19 @@
 
           <div n="136r_18" type="scholion">
             <div n="lemma">
-              <p><num value="18">ιθ</num></p>
+              <p><num value="18">ιη</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+            </div>
+            <div n="comment">
+              <p></p>
+            </div>
+          </div>
+
+          <div n="136r_19" type="scholion">
+            <div n="lemma">
+              <p><num value="19">ιθ</num></p>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
