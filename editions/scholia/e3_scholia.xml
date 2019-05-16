@@ -30,7 +30,7 @@
             </div>
           </div>
 
-          <div n="134v_2" type="scholion">
+          <div n="135v_2" type="scholion">
             <div n="lemma">
               <p><num value="2">β</num></p>
             </div>
@@ -42,7 +42,7 @@
             </div>
           </div>
 
-          <div n="134v_3" type="scholion">
+          <div n="135v_3" type="scholion">
             <div n="lemma">
               <p><num value="3">γ</num></p>
             </div>
@@ -54,7 +54,7 @@
             </div>
           </div>
 
-          <div n="134v_4" type="scholion">
+          <div n="135v_4" type="scholion">
             <div n="lemma">
               <p><num value="4">δ</num></p>
             </div>
@@ -66,7 +66,7 @@
             </div>
           </div>
 
-          <div n="134v_5" type="scholion">
+          <div n="135v_5" type="scholion">
             <div n="lemma">
               <p><num value="5">ε</num></p>
             </div>
@@ -78,7 +78,7 @@
             </div>
           </div>
 
-          <div n="134v_6" type="scholion">
+          <div n="135v_6" type="scholion">
             <div n="lemma">
               <p><num value="6">ϛ</num></p>
             </div>
@@ -90,7 +90,7 @@
             </div>
           </div>
 
-          <div n="134v_7" type="scholion">
+          <div n="135v_7" type="scholion">
             <div n="lemma">
               <p><num value="7">ζ</num></p>
             </div>
@@ -102,7 +102,7 @@
             </div>
           </div>
 
-          <div n="134v_8" type="scholion">
+          <div n="136r_8" type="scholion">
             <div n="lemma">
               <p><num value="8">η</num></p>
             </div>
@@ -114,7 +114,7 @@
             </div>
           </div>
 
-          <div n="134v_9" type="scholion">
+          <div n="136r_9" type="scholion">
             <div n="lemma">
               <p><num value="9">θ</num></p>
             </div>
@@ -126,7 +126,7 @@
             </div>
           </div>
 
-          <div n="135r_10" type="scholion">
+          <div n="136r_10" type="scholion">
             <div n="lemma">
               <p><num value="10">ι</num></p>
             </div>
@@ -138,7 +138,7 @@
             </div>
           </div>
 
-          <div n="135r_11" type="scholion">
+          <div n="136r_11" type="scholion">
             <div n="lemma">
               <p><num value="11">ια</num></p>
             </div>
@@ -150,7 +150,7 @@
             </div>
           </div>
 
-          <div n="135r_12" type="scholion">
+          <div n="136r_12" type="scholion">
             <div n="lemma">
               <p><num value="12">ιβ</num></p>
             </div>
@@ -162,7 +162,7 @@
             </div>
           </div>
 
-          <div n="135r_13" type="scholion">
+          <div n="136r_13" type="scholion">
             <div n="lemma">
               <p><num value="13">ιγ</num></p>
             </div>
@@ -174,7 +174,7 @@
             </div>
           </div>
 
-          <div n="135r_14" type="scholion">
+          <div n="136r_14" type="scholion">
             <div n="lemma">
               <p><num value="14">ιδ</num></p>
             </div>
@@ -186,7 +186,7 @@
             </div>
           </div>
 
-          <div n="135r_15" type="scholion">
+          <div n="136r_15" type="scholion">
             <div n="lemma">
               <p><num value="15">ιε</num></p>
             </div>
@@ -198,7 +198,7 @@
             </div>
           </div>
 
-          <div n="135r_16" type="scholion">
+          <div n="136r_16" type="scholion">
             <div n="lemma">
               <p><num value="16">ιϛ</num></p>
             </div>
@@ -210,9 +210,21 @@
             </div>
           </div>
 
-          <div n="135r_17" type="scholion">
+          <div n="136r_17" type="scholion">
             <div n="lemma">
               <p><num value="17">ιζ</num></p>
+            </div>
+            <div n="ref">
+              <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
+            </div>
+            <div n="comment">
+              <p></p>
+            </div>
+          </div>
+
+          <div n="136r_18" type="scholion">
+            <div n="lemma">
+              <p><num value="18">ιθ</num></p>
             </div>
             <div n="ref">
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.</p>
