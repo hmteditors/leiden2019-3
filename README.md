@@ -3,11 +3,11 @@
 Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 
 ## Table of contents
-* https://github.com/hmteditors/leiden2019-3#current-editing-assignment
-* https://github.com/hmteditors/leiden2019-3#git-sequence
-* https://github.com/hmteditors/leiden2019-3#greek-counting
-* https://github.com/hmteditors/leiden2019-3#special-characters
-* https://github.com/hmteditors/leiden2019-3#useful-links
+* [Current editing assignment](https://github.com/hmteditors/leiden2019-3#current-editing-assignment)
+* [git sequence](https://github.com/hmteditors/leiden2019-3#git-sequence)
+* [Greek counting](https://github.com/hmteditors/leiden2019-3#greek-counting)
+* [Special characters](https://github.com/hmteditors/leiden2019-3#special-characters)
+* [Useful links](https://github.com/hmteditors/leiden2019-3#useful-links)
 
 ## Current editing assignment
 (posted 15 May 2019)
