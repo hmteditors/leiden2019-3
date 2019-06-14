@@ -3,25 +3,25 @@
 Leiden work on Upsilon 1.1 (`e3`) and Venetus B (`vb`).
 
 ## Table of contents
-* https://github.com/hmteditors/leiden2019-2#current-editing-assignment
-* https://github.com/hmteditors/leiden2019-2#git-sequence
-* https://github.com/hmteditors/leiden2019-2#greek-counting
-* https://github.com/hmteditors/leiden2019-2#special-characters
-* https://github.com/hmteditors/leiden2019-2#useful-links
+* https://github.com/hmteditors/leiden2019-3#current-editing-assignment
+* https://github.com/hmteditors/leiden2019-3#git-sequence
+* https://github.com/hmteditors/leiden2019-3#greek-counting
+* https://github.com/hmteditors/leiden2019-3#special-characters
+* https://github.com/hmteditors/leiden2019-3#useful-links
 
 ## Current editing assignment
-(posted 26 April 2019)
+(posted 15 May 2019)
 
 * [Upsilon 1.1, folio 135 verso + 136 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:e3bifolio.v1:E3_135v_136r): *Iliad* 10.532-555 and 10.556-579
 * [Venetus B, folio 140 verso + 141 recto](http://www.homermultitext.org/ict2/?urn=urn:cite2:hmt:vbbifolio.v1:vb_140v_141r): *Iliad* 10.532-555 and 10.556-579
 
-[(return to top)](https://github.com/hmteditors/leiden2019-2#leiden2019-2)
+[(return to top)](https://github.com/hmteditors/leiden2019-3#leiden2019-3)
 
 ## git sequence
 First time:
 ```
-git clone https://github.com/hmteditors/leiden2019-2.git
-cd leiden2019-2
+git clone https://github.com/hmteditors/leiden2019-3.git
+cd leiden2019-3
 ```
 
 Afterwards:
@@ -46,7 +46,7 @@ git config --local user.name "github account name"
 git config --local user.email "github e-mail address"
 ```
 
-[(return to top)](https://github.com/hmteditors/leiden2019-2#leiden2019-2)
+[(return to top)](https://github.com/hmteditors/leiden2019-3#leiden2019-3)
 
 ## Greek counting
 α 1 \
@@ -79,7 +79,7 @@ git config --local user.email "github e-mail address"
 ω 800 \
 ϡ 900
 
-[(return to top)](https://github.com/hmteditors/leiden2019-2#leiden2019-2)
+[(return to top)](https://github.com/hmteditors/leiden2019-3#leiden2019-3)
 
 ## Special characters
 * · `U+00B7` interpunct (used as middle dot and high dot)
@@ -103,7 +103,7 @@ git config --local user.email "github e-mail address"
   * ͳ `U+0373` sampi lowercase, ancient
   * Ͳ `U+0372` sampi uppercase, ancient
 
-[(return to top)](https://github.com/hmteditors/leiden2019-2#leiden2019-2)
+[(return to top)](https://github.com/hmteditors/leiden2019-3#leiden2019-3)
 
 ## Useful links
 * https://homermultitext.github.io/chsseminar/links/
@@ -115,10 +115,11 @@ git config --local user.email "github e-mail address"
 * https://homermultitext.slack.com
 
 Other repositories:
+* https://github.com/hmteditors/leiden2019-2
 * https://github.com/hmteditors/leiden2019
 * https://github.com/hmteditors/leiden2018-alpha
 * https://github.com/hmteditors/2018-office5
 * https://github.com/hmteditors/2018-office8
 * https://github.com/hmteditors/2018-office10
 
-[(return to top)](https://github.com/hmteditors/leiden2019-2#leiden2019-2)
+[(return to top)](https://github.com/hmteditors/leiden2019-3#leiden2019-3)
