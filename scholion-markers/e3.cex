@@ -1,2 +1,20 @@
 reading#image#scholion#linked text
-<num>α</num>##urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_1#urn:cts:greekLit:tlg0012.tlg001.e3:10.@
+<num>α</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09017,0.2350,0.005358,0.01705#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_1#urn:cts:greekLit:tlg0012.tlg001.e3:10.532@πρῶτος
+<num>β</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09017,0.2770,0.004712,0.01857#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_2#urn:cts:greekLit:tlg0012.tlg001.e3:10.534@ψεύσομαι
+<num>γ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.08989,0.3307,0.004712,0.01802#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_3#urn:cts:greekLit:tlg0012.tlg001.e3:10.536@γὰρ
+<num>δ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09322,0.4683,0.007668,0.01705#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_4#urn:cts:greekLit:tlg0012.tlg001.e3:10.544@μή
+<num>ε</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09248,0.6229,0.005358,0.02106#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_5#urn:cts:greekLit:tlg0012.tlg001.e3:10.544@Ὀδυσσεῦ
+<num>ϛ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09276,0.7510,0.007299,0.02259#urn:cts:greekLit:tlg0012.tlg001.e3:10.135v_6#urn:cts:greekLit:tlg0012.tlg001.e3:10.546@πόρεν
+<num>ζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.09276,0.7810,0.008315,0.02647#urn:cts:greekLit:tlg0012.tlg001.e3:10.135_7#urn:cts:greekLit:tlg0012.tlg001.e3:10.547@ἐοικότες
+<num>η</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.4764,0.2220,0.006652,0.01705#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_8#urn:cts:greekLit:tlg0012.tlg001.e3:10.556@ῥεῖα
+<num>θ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.4762,0.2391,0.006375,0.01455#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_9#urn:cts:greekLit:tlg0012.tlg001.e3:10.559@Θρηΐκιοι
+<num>ι</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.4768,0.2596,0.005636,0.02051#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_10#urn:cts:greekLit:tlg0012.tlg001.e3:10.560@ἀρίστους
+<num>ια</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.7110,0.2605,0.01404,0.01455#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_11#urn:cts:greekLit:tlg0012.tlg001.e3:10.561@τρισκαιδἐκατον
+<num>ιβ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.7077,0.3266,0.009978,0.01580#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_12#urn:cts:greekLit:tlg0012.tlg001.e3:10.561@εἵλομεν
+<num>ιγ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.7083,0.4580,0.008130,0.01497#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_13#urn:cts:greekLit:tlg0012.tlg001.e3:10.562@διοπτῆρα
+<num>ιδ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.7063,0.5342,0.01081,0.01732#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_14#urn:cts:greekLit:tlg0012.tlg001.e3:10.564@τάφροιο
+<num>ιε</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.7061,0.6684,0.007668,0.01899#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_15#urn:cts:greekLit:tlg0012.tlg001.e3:10.568@Διομήδεος
+<num>ιϛ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.4819,0.7500,0.008315,0.01802#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_16#urn:cts:greekLit:tlg0012.tlg001.e3:10.571@ἱρὸν
+<num>ιζ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.6360,0.7740,0.01164,0.01954#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_17#urn:cts:greekLit:tlg0012.tlg001.e3:10.573@ἐσβάντες
+<num>ιη</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.4788,0.7855,0.008038,0.02051#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_18#urn:cts:greekLit:tlg0012.tlg001.e3:10.577@λοεσσαμένω
+<num>ιθ</num>#urn:cite2:hmt:e3bifolio.v1:E3_135v_136r@0.6160,0.8149,0.01238,0.01621#urn:cts:greekLit:tlg0012.tlg001.e3:10.136r_19#urn:cts:greekLit:tlg0012.tlg001.e3:10.578@δείπνῳ
