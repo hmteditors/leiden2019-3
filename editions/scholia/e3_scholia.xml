@@ -110,7 +110,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.556</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>αἰδημόνως οὐκ ὰνασκευάζει τὴν ὑπόνοιαν τοῦ γέροντος· ἀλλ' αὔξει μᾶλλον τὰ θεῶν εὐσεβῶς⁑</p>
             </div>
           </div>
 
@@ -122,7 +122,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.559</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἀπὸ τῶν ἵππων ἀρξάμενος. δικαίως <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσον</persName> καὶ <rs type="ethnic" n= "urn:cite2:hmt:place.v1:place70">Θρᾷκας</rs> συνῆψεν· εἶτα δόλωναι. ἀναστρέφων τὴν διήγησιν· οὐδὲ ἐν τῇ ἀπελάσει δὲ τῶν ἵππων ἑαυτὸν συμπεριέλαυεν⁑</p>
             </div>
           </div>
 
@@ -134,7 +134,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.560</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>οὐ γὰρ ἂν συνεκοιμῶντο τῷ βασιλεῖ. εἰ μὴ ἄριστοι ἐτύγχανον⁑</p>
             </div>
           </div>
 
@@ -146,10 +146,9 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.561</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>πῶς τοῦ <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥήσου</persName> καὶ τῶν δώδεκα ἑταίρων συναριθμουμένων. τρισκαιδέκατος ἐστὶν ὁ <persName n="urn:cite2:hmt:pers.v1:pers474">Δόλων</persName>· δῆλον οὖν. ὅτι τον <persName n="urn:cite2:hmt:pers.v1:pers452">Ῥῆσον</persName> κατ’ ἐξοχὴν ὑπεξεῖλεν⁑</p>
             </div>
           </div>
-
           <div n="136r_12" type="scholion">
             <div n="lemma">
               <p><num value="12">ιβ</num></p>
@@ -158,7 +157,7 @@
               <p>urn:cts:greekLit:tlg0012.tlg001.e3:10.561</p>
             </div>
             <div n="comment">
-              <p></p>
+              <p>ἐκοινώνησε γὰρ καὶ αὐτὸς τῷ φόνῳ τοῦ <persName n="urn:cite2:hmt:pers.v1:pers474">Δόλωνος</persName>· ἐπιεικὲς δὲ κἂν τούτῳ ἐμφαίνει ἦθος <persName n="urn:cite2:hmt:pers.v1:pers118">Ὀδυσσεύς</persName>· οὐ γὰρ εἲπεν ἐκτείναμεν. διὰ τὸ ὑπὸ <persName n="urn:cite2:hmt:pers.v1:pers215">Διομήδους</persName> πληγέντα Θανεῖν τὸν <persName n="urn:cite2:hmt:pers.v1:pers474">Δὸλωνα</persName>, ἀλλ’ εἴλομεν⁑</p>
             </div>
           </div>
 
